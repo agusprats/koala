@@ -2,7 +2,8 @@
 <img src="https://media.giphy.com/media/hXID9QeNqIaYRZMWZX/giphy.gif" width="100"> 
      
 <h1> Pre-Entrega </h1>
-<p>COMISION: # 31885<p/> 
+<p>COMISION: #31885<p/> 
+<p>DESAFIO: #5<p/> 
 <p>ALUMNO: Prats Agustina<p/> 
 <p>TUTOR: Sergio Occhipinti <p/> 
 <p>TEMATICA: KOALA Compañia de Software<p/>
@@ -13,8 +14,11 @@
 # Proyectos <br/>
 # Facturas a cobrar <br/>
 # Presupuestos <p/> 
-[DER:](https://lucid.app/lucidchart/fcdb0085-5a4f-463d-980d-de10933cb15e/view?invitationId=inv_0898e9a0-c230-4a30-aaef-ad05057b2fc8&page=0_0#)<br/>
+<h2> Las TABLAS pueden consultarse en el archivo koala.sql<h2/>
+<h2> El DER se encuentra en el link copiado debajo, y también, en las imágenes al pie de este Readme.<br/><h2/><br/>
+DER: https://lucid.app/lucidchart/fcdb0085-5a4f-463d-980d-de10933cb15e/view?invitationId=inv_0898e9a0-c230-4a30-aaef-ad05057b2fc8&page=0_0#<br/>
 
 ###
 
-![#DER_PRATS_AGUSTINA](https://user-images.githubusercontent.com/59830072/163739392-c9b859e3-174b-46a5-b065-a9e6046a63da.png)
+![PRATS AGUSTINA # PRE-ENTREGA](https://user-images.githubusercontent.com/59830072/163804444-7a81d3d8-2a62-422e-863a-e971481371b3.png)
+<img width="721" alt="#DER-WORKBENCH-PRATS" src="https://user-images.githubusercontent.com/59830072/163807823-460a9c6a-97e4-4d2a-8f64-a6f3b9f10511.png">
