@@ -21,4 +21,5 @@ DER: https://lucid.app/lucidchart/fcdb0085-5a4f-463d-980d-de10933cb15e/view?invi
 ###
 
 ![PRATS AGUSTINA # PRE-ENTREGA](https://user-images.githubusercontent.com/59830072/163804444-7a81d3d8-2a62-422e-863a-e971481371b3.png)
-<img width="721" alt="#DER-WORKBENCH-PRATS" src="https://user-images.githubusercontent.com/59830072/163807823-460a9c6a-97e4-4d2a-8f64-a6f3b9f10511.png">
+
+<img width="984" alt="#DER_WORKBENCH_PRATS" src="https://user-images.githubusercontent.com/59830072/163831410-034060c1-fb83-4b41-a1e1-9b730dffd587.png">
