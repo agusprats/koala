@@ -14,9 +14,7 @@
 # Proyectos <br/>
 # Facturas a cobrar <br/>
 # Presupuestos <p/> 
-<h2> Las TABLAS pueden consultarse en el archivo koala.sql<h2/>
-<h2> El DER se encuentra en el link copiado debajo, y también, en las imágenes al pie de este Readme.<br/><h2/><br/>
-DER: https://lucid.app/lucidchart/fcdb0085-5a4f-463d-980d-de10933cb15e/view?invitationId=inv_0898e9a0-c230-4a30-aaef-ad05057b2fc8&page=0_0#<br/>
+
 
 ###
 
